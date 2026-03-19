@@ -32,7 +32,7 @@ AI tools have become a valuable part of my development workflow, helping me move
 
 ### Testing & Infrastructure
 - **Testing:** Vitest
-- **Hosting & CDN:** Cloudflare
+- **Hosting & CDN:** Cloudflare, Vercel, Render, Firebase
 
 ## Featured Projects
 
@@ -57,15 +57,15 @@ I am currently working on an initiative to build OOSA (Open Source South Africa)
 
 ## GitHub Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=[SiphoChris]&show_icons=true&theme=dark)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SiphoChris&show_icons=true&theme=dark)
 
 ## Let's Connect
 
 I'm always interested in collaborating on interesting projects or discussing web development. Feel free to reach out!
 
-- **Email:** [siphonkebe@gmail.com]
-- **LinkedIn:** [https://www.linkedin.com/in/sipho-nkebe-979783312/]
-- **Portfolio:** [https://siphonkebe.vercel.app/]
+- **Email:** siphonkebe@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/sipho-nkebe-979783312/
+- **Portfolio:** https://siphonkebe.vercel.app/
 
 ---
 
