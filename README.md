@@ -36,37 +36,36 @@ AI tools have become a valuable part of my development workflow, helping me move
 
 ## Featured Projects
 
-### [Project Name 1]
-[Brief description of what the project does and the problem it solves]
-**Tech:** Next.js, TypeScript, Tailwind CSS, PostgreSQL, Payload CMS
-**Links:** [Live Demo](#) | [GitHub](#)
+### supacommerce
+A full backend for ecommerce apps based on supabase
+**Tech:** Next.js, TypeScript, Tailwind CSS, PostgreSQL, supabase
+**Links:** [GitHub](https://github.com/SiphoChris/supacommerce.git)
 
-### [Project Name 2]
-[Brief description of what the project does and the problem it solves]
-**Tech:** React, Node.js, Express, MySQL, GraphQL
-**Links:** [Live Demo](#) | [GitHub](#)
+### howdoi
+Intent-based Unix & Git command discovery — right in your terminal.
+**Tech:** bunjs, Typescript
+**Links:** [npm](https://www.npmjs.com/package/@howdoi-cli/cli) | [GitHub](https://github.com/SiphoChris/howdoi.git)
 
-### [Project Name 3]
-[Brief description of what the project does and the problem it solves]
-**Tech:** TanStack Start, Fastify, Strapi, Cloudflare
-**Links:** [Live Demo](#) | [GitHub](#)
+### lmscn
+Interactive LMS components built on shadcn/ui and Tailwind v4. Fully typed, accessible, and wired up with onComplete callbacks. Drop them into your app and own the code.
+**Tech:** shadcn/ui, Reactjs, Typescript, Vitest, TailwindCSS
+**Links:** [Live Demo](https://lmscn.vercel.app/) | [GitHub](https://github.com/SiphoChris/lmscn.git)
 
 ## Currently Working On
 
-[Describe your current project, what you're learning, or technologies you're exploring]
+I am currently working on an initiative to build OOSA (Open Source South Africa) to address technical challenges unique to the South African context. 
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=dark)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=[SiphoChris]&show_icons=true&theme=dark)
 
 ## Let's Connect
 
 I'm always interested in collaborating on interesting projects or discussing web development. Feel free to reach out!
 
-- **Email:** [your.email@example.com]
-- **LinkedIn:** [linkedin.com/in/yourprofile]
-- **Portfolio:** [yourportfolio.com]
-- **Twitter/X:** [@yourhandle]
+- **Email:** [siphonkebe@gmail.com]
+- **LinkedIn:** [https://www.linkedin.com/in/sipho-nkebe-979783312/]
+- **Portfolio:** [https://siphonkebe.vercel.app/]
 
 ---
 
