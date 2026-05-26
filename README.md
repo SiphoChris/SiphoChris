@@ -15,14 +15,14 @@ AI tools have become a valuable part of my development workflow, helping me move
 ## Tech Stack
 
 ### Frontend Development
-- **Languages:** JavaScript, TypeScript
-- **Frameworks:** React.js, Next.js, TanStack Start
-- **Styling:** HTML, CSS, Tailwind CSS, shadcn/ui
+- **Languages:** JavaScript, TypeScript, Dart
+- **Frameworks:** React.js, Next.js, TanStack Start, Flutter
+- **Styling:** HTML, CSS, Tailwind CSS, shadcn/ui, Material3
 - **Design:** Figma, Canva
 
 ### Backend Development
 - **Runtime & Frameworks:** Node.js, Express, Fastify
-- **Languages:** JavaScript, TypeScript, Python
+- **Languages:** JavaScript, TypeScript, Python, Java
 - **APIs:** RESTful, GraphQL
 
 ### Databases & Content Management
@@ -31,8 +31,8 @@ AI tools have become a valuable part of my development workflow, helping me move
 - **Traditional CMS:** WordPress
 
 ### Testing & Infrastructure
-- **Testing:** Vitest
-- **Hosting & CDN:** Cloudflare, Vercel, Render, Firebase
+- **Testing:** Vitest, Playwright, unittest, pytest, jUnit, postman
+- **Hosting & CDN:** Cloudflare, Vercel, Render, Firebase, Supabase
 
 ## Featured Projects
 
@@ -69,4 +69,28 @@ I'm always interested in collaborating on interesting projects or discussing web
 
 ---
 
+<div align="center">
+
+# Some fun stats
+
+[![GitHub](https://www.shieldcn.dev/badge/GitHub-%40SIphoChris-181717.svg?logo=github&variant=branded&size=sm)](https://github.com/SIphoChris) [![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-%40sipho--nkebe--979783312-0A66C2.svg?logo=linkedin&variant=branded&size=sm)](https://www.linkedin.com/in/sipho-nkebe-979783312)
+
+[![GitHub Followers](https://www.shieldcn.dev/github/followers/SIphoChris.svg?variant=secondary&size=sm)](https://github.com/SIphoChris?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/SIphoChris.svg?variant=secondary&size=sm)](https://github.com/SIphoChris?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-61-2563eb.svg?logo=github&variant=secondary&size=sm)](https://github.com/SIphoChris?tab=repositories)
+
+</div>
+
+## 🛠️ Skills & Technologies
+
+![TypeScript](https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&variant=branded&size=sm) ![JavaScript](https://www.shieldcn.dev/badge/-JavaScript-F7DF1E.svg?logo=javascript&variant=branded&size=sm) ![Next.js](https://www.shieldcn.dev/badge/-Next.js-000000.svg?logo=nextdotjs&variant=branded&size=sm) ![React](https://www.shieldcn.dev/badge/-React-61DAFB.svg?logo=react&variant=branded&size=sm) ![Zod](https://www.shieldcn.dev/badge/-Zod-3E67B1.svg?logo=zod&variant=branded&size=sm) ![Tailwind CSS](https://www.shieldcn.dev/badge/-Tailwind_CSS-06B6D4.svg?logo=tailwindcss&variant=branded&size=sm) ![ESLint](https://www.shieldcn.dev/badge/-ESLint-4B32C3.svg?logo=eslint&variant=branded&size=sm) ![Vitest](https://www.shieldcn.dev/badge/-Vitest-6E9F18.svg?logo=vitest&variant=branded&size=sm) ![Vite](https://www.shieldcn.dev/badge/-Vite-646CFF.svg?logo=vite&variant=branded&size=sm)
+
+## 📦 Top Repositories
+
+[![lmscn ⭐ 17](https://www.shieldcn.dev/github/stars/SiphoChris/lmscn.svg?variant=secondary&size=sm)](https://github.com/SiphoChris/lmscn) [![south-african-id ⭐ 7](https://www.shieldcn.dev/github/stars/SiphoChris/south-african-id.svg?variant=secondary&size=sm)](https://github.com/SiphoChris/south-african-id) [![os4sa ⭐ 1](https://www.shieldcn.dev/github/stars/SiphoChris/os4sa.svg?variant=secondary&size=sm)](https://github.com/SiphoChris/os4sa) [![howdoi ⭐ 1](https://www.shieldcn.dev/github/stars/SiphoChris/howdoi.svg?variant=secondary&size=sm)](https://github.com/SiphoChris/howdoi) [![supacommerce ⭐ 1](https://www.shieldcn.dev/github/stars/SiphoChris/supacommerce.svg?variant=secondary&size=sm)](https://github.com/SiphoChris/supacommerce) [![stitch-money-typescript-sdk ⭐ 1](https://www.shieldcn.dev/github/stars/SiphoChris/stitch-money-typescript-sdk.svg?variant=secondary&size=sm)](https://github.com/SiphoChris/stitch-money-typescript-sdk)
+
+---
+
 *Crafting digital experiences from the southern tip of Africa* 🌍
+
+---
+
+<sub>Badges generated with [shieldcn](https://shieldcn.dev/gen/profile)</sub>
